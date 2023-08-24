@@ -1,0 +1,14 @@
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\bin\Debug\net7.0\laboratorio-i-pe-RaquelMejia.exe
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\bin\Debug\net7.0\laboratorio-i-pe-RaquelMejia.deps.json
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\bin\Debug\net7.0\laboratorio-i-pe-RaquelMejia.runtimeconfig.json
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\bin\Debug\net7.0\laboratorio-i-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\bin\Debug\net7.0\laboratorio-i-pe-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.AssemblyInfo.cs
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\refint\laboratorio-i-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\laboratorio-i-pe-RaquelMejia.genruntimeconfig.cache
+C:\Users\Isaí Meléndez\Downloads\LaboratorioPractico.progra\laboratorio-i-pe-RaquelMejia\obj\Debug\net7.0\ref\laboratorio-i-pe-RaquelMejia.dll
